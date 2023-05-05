@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harsh-israni
-- 👀 I’m interested in Devops
+- 👀 I’m working in Devops
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me email
+- 📫 How to reach me email me
 
 <!---
 harsh-israni/harsh-israni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
